@@ -1,2 +1,2 @@
 # survey
-survey form for a student
+survey form for a students
